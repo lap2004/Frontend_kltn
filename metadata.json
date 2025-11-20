@@ -1,0 +1,5 @@
+{
+  "name": "MediBot",
+  "description": "A comprehensive medical chatbot application featuring a landing page, admin portal, and AI-powered chat interface.",
+  "requestFramePermissions": []
+}
